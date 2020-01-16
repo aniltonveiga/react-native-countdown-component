@@ -22,6 +22,8 @@ Run `npm install react-native-countdown-component --save` OR `yarn add react-nat
 | timeLabels | Text to show in time label | object | {d: 'Days', h: 'Hours', m: 'Minutes', s: 'Seconds'} |
 | showSeparator | Should show separator | bool | false |
 | running | a boolean to pause and resume the component | bool | true |
+| fullHours | a boolean to use full hour values instead of 24 module | boolean | false |
+
 
 
 ## Preview
